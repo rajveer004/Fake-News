@@ -72,7 +72,7 @@ const ContactPage: React.FC = () => {
                 {/* Contact Form */}
                 <div className="bg-light-surface/50 dark:bg-cyber-surface/60 border border-light-border dark:border-cyber-border/50 rounded-lg p-8 backdrop-blur-sm">
                     <form onSubmit={handleSubmit} className="space-y-6">
-                        <input type="hidden" name="access_key" value="7409f8ff-3058-4371-8e44-07b2a7cde273" />
+                        <input type="hidden" name="access_key" value="0b00f1e7-e3b3-4c25-8471-bd66d2be469e" />
                         <input type="hidden" name="subject" value="New Contact Form Submission from Synthetica" />
                         <input type="checkbox" name="botcheck" className="hidden" style={{display: 'none'}} />
 
